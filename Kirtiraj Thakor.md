@@ -29,8 +29,8 @@ Hey everyone, my name is **Kirtiraj Thakor**. 👋
 
 You can find me on:
 
-- 👨‍💻 **Linkedin**: [Parth Desai](https://www.linkedin.com/in/kirtiraj-thakor-0a5440204/)
+- 👨‍💻 **Linkedin**: [Kirtiraj Thakor](https://www.linkedin.com/in/kirtiraj-thakor-0a5440204/)
 
-- 🐦 **Twitter**: [@_ParthDesai_](https://twitter.com/KirtirajThakor)
+- 🐦 **Twitter**: [@KirtirajThakor](https://twitter.com/KirtirajThakor)
 
 Let's connect and explore the world of technology together! 🚀
