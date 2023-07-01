@@ -8,7 +8,7 @@ Hello everyone, my name is Sonia Malik. 👋
 📚 My goal is to educate others about the technical Interview preparation and I believe in Giving back to the community.
 🌟 I am thrilled to be part of The Decode Cafe Community in the tech team.
 💬 Looking forward to engaging in insightful discussions with all you amazing people.
-Connect with Me
+Connect with me:
 You can find me on:
 
 👥 Linkedin: Sonia Malik
