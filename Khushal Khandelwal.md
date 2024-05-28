@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://khushalk.vercel.app/Profile/KhushalK.png" alt="GitHub Profile Photo" style="transform: rotate(90deg); width: 300px; height: 245px; object-fit: cover; border-radius: 10%;">
+  <img src="https://khushalk.vercel.app/Profile/KhushalK.jpg" alt="GitHub Profile Photo" style="width: 245px; height: 300px; object-fit: cover; border-radius: 10%;">
   <h1>Hi 👋, I'm Khushal Khandelwal</h1>
 </div>
 
