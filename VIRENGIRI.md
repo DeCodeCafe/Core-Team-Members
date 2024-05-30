@@ -7,12 +7,11 @@
 
 
 ## About Me 👤
-> 💻 Tech Enthusiast | Passionate Software Engineer | Community 🌐
+> 4x Community Top Voice 🏅 | GDSC Blockchain Lead 🔗| Tech team @DecodeCafe | MERN Stack Developer 👨‍💻 | Finalist SSIP hackathon'22 ⭐ | CSE'25 ✨
 
-👨‍💻 Hey there! I'm a Computer Engineering student from Gujarat, India. Passionate about programming and new technologies, I'm like a curious kid always eager to learn and explore cool stuff! Let's make some magic together! 🚀✨
+MERN Stack Developer and Blockchain enthusiast 🌐
 
-
-
+I am a dedicated MERN Stack Developer with a fervor for creating innovative solutions. I thrive on turning ideas into reality through my technical expertise.
 
 ## Social Media 📱
 
