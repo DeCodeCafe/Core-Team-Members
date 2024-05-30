@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/F3TbEyC.png" alt="GitHub Profile Photo" style="width: 245px; height: 300px; object-fit: cover; border-radius: 10%;">
+  <img src="https://i.imgur.com/F3TbEyC.png" alt="GitHub Profile Photo" style="width: 245px; height: 245px; object-fit: cover; border-radius: 10%;">
   <h1>Hi 👋, I'm Virengiri Goswami</h1>
 </div>
 
