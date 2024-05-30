@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="[https://khushalk.vercel.app/Profile/KhushalK.jpg](https://media.licdn.com/dms/image/D4D03AQEAOokcN4pUrA/profile-displayphoto-shrink_800_800/0/1710658456353?e=1722470400&v=beta&t=c9ifpNBD-vDhZcwN9L-C6KCuHSig6F-SvRNQ41r6lXk)" alt="GitHub Profile Photo" style="width: 245px; height: 300px; object-fit: cover; border-radius: 10%;">
+  <img src="https://khushalk.vercel.app/Profile/KhushalK.jpg](https://media.licdn.com/dms/image/D4D03AQEAOokcN4pUrA/profile-displayphoto-shrink_800_800/0/1710658456353?e=1722470400&v=beta&t=c9ifpNBD-vDhZcwN9L-C6KCuHSig6F-SvRNQ41r6lXk" alt="GitHub Profile Photo" style="width: 245px; height: 300px; object-fit: cover; border-radius: 10%;">
   <h1>Hi 👋, I'm Virengiri Goswami</h1>
 </div>
 
