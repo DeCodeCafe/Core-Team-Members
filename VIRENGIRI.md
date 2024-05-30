@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/virengiri-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kk-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/goswamiveerengiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kk-instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/goswamivirengiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kk-instagram" height="30" width="40" /></a>
 </p>
 
 Looking forward to connecting with fellow tech enthusiasts and building amazing things! 😊✨
