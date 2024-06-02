@@ -8,7 +8,7 @@
       />
       <h1>NISHI PANCHAL</h1>
       <br />
-      <a href="https://www.linkedin.com/in/nishi-panchal-a09b64255/" style="text-decoration: none; color:white;">LINKEDIN</a> &nbsp;|&nbsp;
+      <a href="https://www.linkedin.com/in/nishi-panchal-a09b64255/" style="text-decoration: none; color:white;">LINKEDIN</a> |
       <a href="https://github.com/nishi1403" style="text-decoration: none; color:white;">GITHUB</a> 
       <hr />
       <br />
@@ -16,15 +16,15 @@
         A person with good public speaking skills and self-driven attitude.
     </p>
         <h2>SKILLS</h2>
-        <b>HTML/CSS</b>  &nbsp;|&nbsp;
-        <b>JavaScript</b>  &nbsp;|&nbsp;
-        <b>React</b> &nbsp;|&nbsp;
-        <b>C</b> &nbsp;|&nbsp;
-        <b>JAVA</b> &nbsp;|&nbsp;
+        <b>HTML/CSS</b>  |
+        <b>JavaScript</b>  |
+        <b>React</b> |
+        <b>C</b> |
+        <b>JAVA</b> |
         <b>Python</b>
         <hr>
         <br>
-        <b>MAIL:</b> &nbsp; nishicoder@gmail.com
+        <b>MAIL:</b> nishicoder@gmail.com
         <br>
       <br>
     </div>
